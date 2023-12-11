@@ -1,0 +1,21 @@
+
+/* add styles for the body*/
+body {
+    background-color: lightblue;
+    width: 650px;
+    font-size: 16px;
+    font-family: "Times New Roman", "Helvetica", sans-serif;
+}
+
+.joke {
+    color: red;
+}
+
+button {
+    background-color: black;
+    color: white;
+    width: auto;
+    height: auto;
+    font-size: 20px;
+    font-family: "Brush Script MT", sans-serif;
+}
